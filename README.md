@@ -35,6 +35,8 @@ To run all tests just simply type
 ```sh
 npm run e2e
 ```
+### Sample Report-
+
 ![Screenshot 2023-01-31 at 20 13 41](https://user-images.githubusercontent.com/19307354/215860006-dedfaf66-241f-42fd-ae3d-b05a1d40e55d.jpeg)
 
 
