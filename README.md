@@ -9,6 +9,7 @@ This demo project is created to run PowerUs E2E tests using Cypress. The project
 - Clean code, easy to read
 - Scalability- Easy to Scale
 - Simplicity- Simple Design
+- GithubAction is integrated
 
 ### Tech
 
