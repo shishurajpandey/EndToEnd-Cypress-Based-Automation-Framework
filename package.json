@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cypress": "^11.2.0"
+  },
+  "name": "powerus_demoproject_using_cypress",
+  "version": "1.0.0",
+  "description": "e2e powerus tests using cypress",
+  "main": "index.js",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
+    "@typescript-eslint/parser": "^5.50.0",
+    "cypress-if": "^1.10.2",
+    "eslint-plugin-cypress": "^2.12.1",
+    "typescript": "^4.9.3"
+  },
+  "scripts": {
+    "e2e": "cypress run --spec cypress/e2e/**/"
+  },
+  "author": "shishurajpandey",
+  "license": "ISC"
+}
