@@ -4,8 +4,8 @@ This demo project is created to run PowerUs E2E tests using Cypress. The project
 - TypeScript supported
 - Data driven tests
 - Page Object Models (POM) design pattern is used
-- Custom Cypress Commands has been created which can be reused everywhere to avoid the code repeats
-- ESLint integrated
+- Custom Cypress Commands have been created which can be reused everywhere to avoid the code repeats
+- ESLint integrated- A static code analysis tool.
 - Clean code, easy to read
 - Scalability- Easy to Scale
 - Simplicity- Simple Design
