@@ -1,6 +1,6 @@
 # Introduction
 
-This demo project is created to run E2E tests using Cypress. The project has following feature integrated in it-
+### This demo project is created to run E2E tests using Cypress. The project has following feature integrated in it-
 - TypeScript supported
 - Data driven tests
 - Page Object Models (POM) design pattern is used
